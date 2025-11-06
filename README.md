@@ -37,5 +37,9 @@ The installer bypasses regional restrictions using a User-Agent override and use
 Clone the repository:
 
 ```bash
-git clone https://github.com/sajisah/Proxmox-Speedtest-CLI-Installer-Official-Ookla-Version-.git
+git clone https://github.com/sajisah/proxmox-speedtest-installer.git
 cd proxmox-speedtest-installer
+chmod +x speedtest.sh
+./speedtest.sh
+
+
